@@ -2,7 +2,7 @@
 This project aims to predict the churn rate of customers for an internet service provider using Databricks. Customer churn is a significant concern for businesses because it directly affects their revenue. Predicting churn can help the business to take proactive measures to retain customers and reduce churn.
 
 # Dataset
-The dataset used for this project is a publicly available dataset from Kaggle. The dataset contains information about customers of an internet service provider, such as their demographic information, internet usage, and customer account details. The dataset can be found [here](https://www.kaggle.com/datasets/mehmetsabrikunt/internet-service-churn).
+The dataset used for this project is a publicly available dataset from Kaggle. The dataset contains information about customers of an internet service provider, such as their subscription information, internet usage, and billing details. The dataset can be found [here](https://www.kaggle.com/datasets/mehmetsabrikunt/internet-service-churn).
 
 # Project Workflow
 The project workflow consists of the following steps:
