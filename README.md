@@ -8,7 +8,7 @@ The dataset used for this project is a publicly available dataset from Kaggle. T
 The project workflow consists of the following steps:
 1. Data Cleaning and Preprocessing: The raw data needs to be cleaned and preprocessed before feeding it into the machine learning model. This step includes data transformation, handling missing data, and outliers analysis.
 2. Exploratory Data Analysis (EDA): EDA is performed to understand the distribution of data, identify patterns, and relationships between variables.
-3. Model Building: Machine learning models are built using various algorithms such as Logistic Regression, Decision Tree, Random Forest, and Gadient Boost.
+3. Model Building: Machine learning models are built using various algorithms such as Logistic Regression, Decision Tree, Random Forest, and Gradient Boost.
 4. Model Evaluation: The models are evaluated based on various performance metrics such as accuracy and test error.
 5. Streaming: The best-performing model is deployed into streaming pipeline to predict the churn rate of new customers.
 
